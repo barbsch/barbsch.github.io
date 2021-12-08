@@ -10,12 +10,15 @@
 ### Developer Guides
 
 - API Guide
+- SDK Guide
+- Customization Guide
 
 ### System Administrator Guides
 
 
 ### Whitepapers
 
+[Video streaming](../assets/WhitepaperLong.pdf)
 
 ### Embedded UI Assistance
 
