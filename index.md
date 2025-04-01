@@ -1,11 +1,16 @@
-## Barbara Schramm Technical Content Portfolio
+# Barbara Schramm Technical Content Portfolio
 
-<!--- You can use the [editor on GitHub](https://github.com/barbsch/barbsch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) Check out our [documentation](https://help.github.com/categories/github-pages-basics/). --->
-
-### Content Strategy & Style Guides
+## Content Strategy & Style Guides
 
 [Learning Journey and Content Needs for a Solution Architect](../assets/SolArchLJShort.pdf) 
 
+## Content design & UX Writing
+
+## Whitepapers
+
+[Video streaming](../assets/WhitepaperLong.pdf)
+
+## Product Documentation
 
 ### Developer Guides
 
@@ -15,10 +20,9 @@
 
 ### System Administrator Guides
 
+### User Guides
 
-### Whitepapers
 
-[Video streaming](../assets/WhitepaperLong.pdf)
 
-### UI Content
+
 
