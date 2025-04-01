@@ -2,7 +2,7 @@
 
 <!--- You can use the [editor on GitHub](https://github.com/barbsch/barbsch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) Check out our [documentation](https://help.github.com/categories/github-pages-basics/). --->
 
-### Content Strategy
+### Content Strategy & Style Guides
 
 [Learning Journey and Content Needs for a Solution Architect](../assets/SolArchLJShort.pdf) 
 
@@ -20,5 +20,5 @@
 
 [Video streaming](../assets/WhitepaperLong.pdf)
 
-### Embedded UI Assistance
+### UI Content
 
