@@ -1,29 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Barbara Schramm Portfolio</title>
+</head>
+<body>
+    <h1>Content Strategy & Style Guides</h1>
+    <p>add links here </p>
 
-<!-- # Barbara Schramm Technical Content Portfolio
+    <h1>Customer Journeys</h1>
+    <p>[Learning Journey and Content Needs for a Solution Architect](../assets/SolArchLJShort.pdf) </p>
 
-## Content Strategy & Style Guides
+  
+<h1>UX Writing</h1>
+ <p>add links here </p>
 
-[Learning Journey and Content Needs for a Solution Architect](../assets/SolArchLJShort.pdf) 
+<h1>Whitepapers</h1>
+<p>[Video streaming](../assets/WhitepaperLong.pdf)</p>
 
-## Content design & UX Writing
+<h1>Product Documentation</h1>
+ <p>add links here </p>
 
-## Whitepapers
+</body>
+</html>
 
-[Video streaming](../assets/WhitepaperLong.pdf)
 
-## Product Documentation
 
-### Developer Guides
 
-- API Guide
-- SDK Guide
-- Customization Guide
-
-### System Administrator Guides
-
-### User Guides
---->
-
+<!--
 ---
 #
 # By default, content added below the "---" mark will appear in the home page
@@ -33,6 +36,7 @@
 #
 layout: home
 ---
+--->
 
 
 
